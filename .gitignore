@@ -1,0 +1,11 @@
+/node_modules/
+/build/
+/dist/
+
+.env
+
+/logs/
+
+*/**/successes/**/*.json
+*/**/errors/**/*.json
+.vercel
